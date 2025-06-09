@@ -70,7 +70,6 @@ MongoDB,
 #### Loading Screen
 ![image](https://user-images.githubusercontent.com/90745903/235368351-699df61b-15bb-429d-9387-c724cc4c0d75.png)
 
-#### Home Page 
-![image](https://user-images.githubusercontent.com/90745903/235368363-0fd4d1d4-e7ef-4202-b764-fc16f5185723.png)
+
 
 
